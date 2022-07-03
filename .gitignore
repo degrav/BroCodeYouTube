@@ -1,0 +1,9 @@
+# Ignore files for java ide.
+
+*.ctxt
+*.class
+
+classes/
+deploy/
+javadoc/
+doc/
