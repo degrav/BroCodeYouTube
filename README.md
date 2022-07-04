@@ -4,3 +4,5 @@ https://www.youtube.com/playlist?list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1 Java tu
 A collection of source code provided within each video of this playlist.
 
 incomplete as of now but will be adding more.
+
+NOT AFFILIATED WITH CONTENT CREATOR, ONLY STORAGE OF SOURCE CODE AS PROVIDED.
