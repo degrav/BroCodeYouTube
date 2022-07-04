@@ -2,6 +2,7 @@
 
 *.ctxt
 *.class
+*.bluej
 
 classes/
 deploy/
